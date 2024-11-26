@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-abuel-navbar/static/css/main.7110d2cb.css",
+    "main.js": "/ws101-abuel-navbar/static/js/main.2fa44e51.js",
+    "index.html": "/ws101-abuel-navbar/index.html",
+    "main.7110d2cb.css.map": "/ws101-abuel-navbar/static/css/main.7110d2cb.css.map",
+    "main.2fa44e51.js.map": "/ws101-abuel-navbar/static/js/main.2fa44e51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7110d2cb.css",
+    "static/js/main.2fa44e51.js"
+  ]
+}
